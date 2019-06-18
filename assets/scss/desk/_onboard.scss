@@ -1,0 +1,75 @@
+.onboard {
+  display: block;
+  position: relative;
+}
+.onboard-primary, .onboard-display-primary {
+  height: 100vh !important;
+}
+.onboard-display {
+  width: 100%;
+  background-position: center !important;
+  background-size: cover !important;
+  -o-object-fit: cover !important;
+  object-fit: cover !important;
+}
+.onboard-primary .onboard-text,
+.onboard-display-primary .onboard-text {
+  padding: 0 100px 100px;
+}
+.onboard-text {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.onboard-text-container {
+  display: block;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  height: 100%;
+  width: 100%;
+}
+
+.onboard-pane-display-fixed {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  transition: 0.5s all ease;
+}
+.onboard-pane-display {
+  height: 100%;
+  width: 100%;
+  background-position: center !important;
+  background-size: cover !important;
+  object-fit: cover !important;
+}
+
+.onboard-pane-primary, .onboard-pane-display-primary {
+  min-height: 100vh;
+  max-height: 100vh;
+}
+.onboard-pane-primary .onboard-pane-text,
+.onboard-pane-display-primary .onboard-pane-text {
+  padding: 0 100px;
+}
+.onboard-pane-text {
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+}
+.onboard-pane-text-container {
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+.onboard-pane-text-inner {
+  align-items: center;
+  height: 100%;
+}

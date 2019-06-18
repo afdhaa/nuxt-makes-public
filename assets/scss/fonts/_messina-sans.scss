@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Messina Sans";
+  font-style: normal;
+  font-weight: 300;
+  src:url("~static/fonts/messina-sans/MessinaSans-Light.eot");
+  src:url("~static/fonts/messina-sans/MessinaSans-Light.eot?#iefix") format("embedded-opentype"),
+      url("~static/fonts/messina-sans/MessinaSans-Light.woff") format("woff"),
+      url("~static/fonts/messina-sans/MessinaSans-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Messina Sans";
+  font-style: normal;
+  font-weight: 400;
+  src:url("~static/fonts/messina-sans/MessinaSans-Regular.eot");
+  src:url("~static/fonts/messina-sans/MessinaSans-Regular.eot?#iefix") format("embedded-opentype"),
+      url("~static/fonts/messina-sans/MessinaSans-Regular.woff") format("woff"),
+      url("~static/fonts/messina-sans/MessinaSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Messina Sans";
+  font-style: normal;
+  font-weight: 600;
+  src:url("~static/fonts/messina-sans/MessinaSans-Bold.eot");
+  src:url("~static/fonts/messina-sans/MessinaSans-Bold.eot?#iefix") format("embedded-opentype"),
+      url("~static/fonts/messina-sans/MessinaSans-Bold.woff") format("woff"),
+      url("~static/fonts/messina-sans/MessinaSans-Bold.ttf") format("truetype");
+}
