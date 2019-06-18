@@ -24,7 +24,7 @@
             <div class="row">
               <div class="col-12 col-md-6">
                 <p>
-                  <video width="500" controls>
+                  <video style="width: 100%;height: auto;" controls>
                     <source src="https://res.cloudinary.com/afdhaa/video/upload/v1560837441/VID-20190617-WA0003_vzre1j.mp4" type="video/mp4">
                     Your browser does not support HTML5 video.
                   </video>
