@@ -16,6 +16,7 @@ export default {
         { url: 'index', title: 'Home' },
         { url: 'practices', title: 'Practices' },
         { url: 'people', title: 'People' },
+        { url: 'aksara', title: 'Aksara' },
         { url: 'resources', title: 'Resources' },
         { url: 'about-us', title: 'About Us' },
         { url: 'careers', title: 'Careers' },
