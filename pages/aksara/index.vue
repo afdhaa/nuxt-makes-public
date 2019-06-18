@@ -23,7 +23,12 @@
             </div>
             <div class="row">
               <div class="col-12 col-md-6">
-                <p><img width="480" src="https://res.cloudinary.com/dyrywo8ho/image/upload/v1560416972/aksara_jyq15b.png" alt=""></p>
+                <p>
+                  <video width="500" controls>
+                    <source src="https://res.cloudinary.com/afdhaa/video/upload/v1560837441/VID-20190617-WA0003_vzre1j.mp4" type="video/mp4">
+                    Your browser does not support HTML5 video.
+                  </video>
+                </p>
               </div>
               <div class="col-12 col-md-6">
                 <p>The Aksara Nusantara will include the following drafts: </p>
