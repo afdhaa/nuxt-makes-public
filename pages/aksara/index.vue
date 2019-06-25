@@ -6,7 +6,7 @@
   <main>
     <section>
       <Top
-        :titles="['Aksara', 'Nusantara', 'Overview']"
+        :titles="['Aksara', 'Nusantara']"
         container="true"
         row="true"
         trow="true"
@@ -22,7 +22,7 @@
           <div class="col-12 col-md-12 col-xs-12">
             <div class="row">
               <div class="col-12 col-md-6 col-xs-12">
-                <h2>Aksara Nusantara</h2>
+                <!-- <h2>Aksara Nusantara</h2> -->
               </div>
             </div>
             <div class="row">
