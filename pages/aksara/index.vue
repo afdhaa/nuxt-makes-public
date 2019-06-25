@@ -66,8 +66,6 @@
                     </div>
                   </div>
                 </a>
-              </div>
-              <div class="col-4 md-12">
                 <a href="" target="_blank">
                     <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                   <div class="card-body" style="">
@@ -75,6 +73,8 @@
                   </div>
                 </div>
                 </a>
+              </div>
+              <div class="col-4 md-12">
                 <a href="" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -89,8 +89,6 @@
                   </div>
                 </div>
                 </a>
-              </div>
-              <div class="col-4 md-12">
                 <a href="">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -105,10 +103,19 @@
                     </div>
                   </div>
                 </a>
+              </div>
+              <div class="col-4 md-12">
                 <a href="" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Pledges of Shares Agreement (Bilingual)</p>
+                    </div>
+                  </div>
+                </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">F.A.Q (Indonesian Version)</p>
                     </div>
                   </div>
                 </a>
@@ -118,7 +125,7 @@
                 <p>The above drafts are available in Indonesian and English versions</p>
                 <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p>
               </div>
-              <div class="col-12 md-12">
+              <!-- <div class="col-12 md-12">
                   <br>
                   <hr>
                   <br>
@@ -165,7 +172,7 @@
                     <p>Tidak. Para pihak dapat memilih skema transaksi yang diinginkan dan kemudian menyesuaikan dengan dokumen Aksara Nusantara yang relevan. Secara umum, apabila Investors memilih skema untuk berinvestasi kepada perusahaan startup melalui penerbitan saham baru sebagaimana diatur dalam Perjanjian Pengambilan Saham, maka ia kemungkinan tidak akan menggunakan dokumen Perjanjian Surat Utang Yang Dapat Dikonversi dan Perjanjian Gadai Saham. Begitupun sebaliknya.</p>
                   </span>
                 <button style="background-color:#34649b;color:#ffffff;padding:10px 25px 10px 25px;" @click="readMore" id="myBtn">Read more</button>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
