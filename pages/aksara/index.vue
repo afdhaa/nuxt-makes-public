@@ -36,9 +36,9 @@
                 </p>
 
               </div>
-              <div class="col-12 col-md-6 align-self-center m-footer-inner" >
+              <div class="col-12 col-md-6 align-self-center" >
                 <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
-                <p style="font-size: 22px;">"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes & Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</p>
+                <h2>"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</h2>
               </div>
               <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
