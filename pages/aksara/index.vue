@@ -46,35 +46,35 @@
               </div>
               <div class="col-6 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet%20(Bahasa%20Indonesia).doc" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Term Sheet (Indonesian Version)</p>
                     </div>
                   </div>
                 </a>
                 <a href="" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Share Subcription (Indonesian Version)</p>
                     </div>
                   </div>
                 </a>
                 <a href="" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Shareholders' Agreement (Indonesian Version)</p>
                     </div>
                   </div>
                 </a>
                 <a href="" target="_blank">
-                    <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                   <div class="card-body" style="">
                     <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (Indonesian Version)</p>
                   </div>
                 </div>
                 </a>
                 <a href="" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">F.A.Q (Indonesian Version)</p>
                     </div>
@@ -83,35 +83,35 @@
               </div>
               <div class="col-6 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet.docx" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Term Sheet (English Version)</p>
                     </div>
                   </div>
                 </a>
                 <a href="" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                   <div class="card-body" style="">
                     <p class="card-text" algin="center" style="color: white;">Share Subscription Agreement (English Version)</p>
                   </div>
                 </div>
                 </a>
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Shareholders'%20Agreement.docx" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Shareholders' Agreement (English Version) </p>
                     </div>
                   </div>
                 </a>
                 <a href="" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (English Version)</p>
                     </div>
                   </div>
                 </a>
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Pledge%20of%20Shares%20Agreement%20(bilingual).docx" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Pledges of Shares Agreement (Bilingual)</p>
                     </div>
