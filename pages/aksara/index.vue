@@ -36,7 +36,7 @@
                 </p>
 
               </div>
-              <div class="col-12 col-md-6 col-xs-12 align-self-center">
+              <div class="col-12 col-md-6 col-xs-12 align-self-center m-footer-inner" >
                 <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
                 <p style="font-size: 22px;">"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes & Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</p>
               </div>
@@ -59,7 +59,7 @@
                     </div>
                   </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Perjanjian%20Antar%20Pemegang%20Saham.doc" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Shareholders' Agreement (Indonesian Version)</p>
@@ -113,7 +113,7 @@
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Pledge%20of%20Shares%20Agreement%20(bilingual).docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
-                      <p class="card-text" algin="center" style="color: white;"><i class="fa fa-download" aria-hidden="true"></i>Pledges of Shares Agreement (Bilingual)</p>
+                      <p class="card-text" algin="center" style="color: white;"><i class="fa fa-download"></i>Pledges of Shares Agreement (Bilingual)</p>
                     </div>
                   </div>
                 </a>
