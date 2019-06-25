@@ -37,12 +37,12 @@
 
               </div>
               <div class="col-12 col-md-6 col-xs-12 align-self-center">
-                <p><b>The Aksara Nusantara will include the following drafts: </b></p>
-                <p align="justify">We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes & Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia.</p>
+                <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
+                <p style="font-size: 22px;">"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes & Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</p>
               </div>
               <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
-                <p><b>Download Documents</b></p>
+                <p><b>You can download, use and alter the editable Word version of Aksara Nusantara for free, subject to our Disclaimer below:</b></p>
               </div>
               <div class="col-6 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet%20(Bahasa%20Indonesia).doc" target="_blank">
@@ -73,7 +73,7 @@
                   </div>
                 </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/Aksara%20Nusantara%20-%20Frequently%20Asked%20Questions.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">F.A.Q (Indonesian Version)</p>
@@ -118,11 +118,18 @@
                   </div>
                 </a>
               </div>
-              
+              <br><br>
               <div class="col-12 md-12 col-xs-12">
                 <br>
-                <p>The above drafts are available in Indonesian and English versions</p>
-                <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p>
+                <p align="justify"><b>“A Kit of Standard Startup Agreements” (“Aksara Nusantara”) is a work product developed by Makes & Partners Law Firm (“Makes”), taking into account various external and internal sources on the Startup fundraising documents. Aksara Nusantara will be updated from time to time following any inputs that we receive.</b></p>
+
+<p align="justify"><b>No information provided in Aksara Nusantara, should be construed as legal advice (including for any fact or scenario described in each of the documents or any assumptions made in relation to such document). Aksara Nusantara and the terms thereto are intended to serve as a starting point only and should be tailored to meet your specific legal and commercial requirements. Additional documents may be required for your transaction. Makes does not take any responsibility for the contents of Aksara Nusantara. Please obtain legal, tax and other professional advice accordingly.</b></p> 
+
+<p align="justify"><b>Aksara Nusantara is developed by taking into consideration the general nature of early stage startup investments in Indonesia. It should not be construed as how Makes’ positions itself on various matters mentioned herein in any transactions that are handled by Makes.</b></p>
+
+<p align="justify"><b>For queries and comments please contact us at mailto:tanyaaksara@makeslaw.com.</b></p>
+<br><br>
+                <!-- <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p> -->
               </div>
               <!-- <div class="col-12 md-12 col-xs-12">
                   <br>
