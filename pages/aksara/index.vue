@@ -26,9 +26,9 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-12 col-md-12 align-center">
+              <div class="col-12 col-md-12" align="center">
                 <p>
-                  <iframe style="width: 70%;height: 350px;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe style="width: 75%;height: 450px;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   <!-- <video style="width: 100%;height: auto;" controls>
                     <source src="https://www.youtube.com/watch?v=_vApfbd5gB0" type="video/mp4">
                     Your browser does not support HTML5 video.
@@ -36,7 +36,7 @@
                 </p>
                 <br><br>
               </div>
-              <div class="col-12 col-md-6 align-center" >
+              <div class="col-12 col-md-12 text-center" >
                 <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
                 <h4><i>“We believe that the future is about collaboration and every great thing has to start somewhere.”</i></h4>
               </div>
