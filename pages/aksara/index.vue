@@ -127,7 +127,7 @@
 
 <p align="justify"><b>Aksara Nusantara is developed by taking into consideration the general nature of early stage startup investments in Indonesia. It should not be construed as how Makes’ positions itself on various matters mentioned herein in any transactions that are handled by Makes.</b></p>
 
-<p align="justify"><b>For queries and comments please contact us at mailto:tanyaaksara@makeslaw.com.</b></p>
+<p align="justify"><b>For queries and comments please contact us at <a href="mailto:tanyaaksara@makeslaw.com" target="_blank" rel="noopener">tanyaaksara@makeslaw.com</a>.</b></p>
 <br><br>
                 <!-- <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p> -->
               </div>
