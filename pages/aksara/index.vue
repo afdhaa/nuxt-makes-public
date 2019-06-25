@@ -44,7 +44,7 @@
                 <br><br>
                 <p><b>Download Documents</b></p>
               </div>
-              <div class="col-4 md-12 col-xs-12">
+              <div class="col-6 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet%20(Bahasa%20Indonesia).doc" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -73,8 +73,15 @@
                   </div>
                 </div>
                 </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">F.A.Q (Indonesian Version)</p>
+                    </div>
+                  </div>
+                </a>
               </div>
-              <div class="col-4 md-12 col-xs-12">
+              <div class="col-6 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -103,8 +110,6 @@
                     </div>
                   </div>
                 </a>
-              </div>
-              <div class="col-4 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Pledge%20of%20Shares%20Agreement%20(bilingual).docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -112,14 +117,8 @@
                     </div>
                   </div>
                 </a>
-                <a href="" target="_blank">
-                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
-                    <div class="card-body" style="">
-                      <p class="card-text" algin="center" style="color: white;">F.A.Q (Indonesian Version)</p>
-                    </div>
-                  </div>
-                </a>
               </div>
+              
               <div class="col-12 md-12 col-xs-12">
                 <br>
                 <p>The above drafts are available in Indonesian and English versions</p>
