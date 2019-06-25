@@ -36,7 +36,7 @@
                 </p>
 
               </div>
-              <div class="col-12 col-md-6 col-xs-12 align-self-center m-footer-inner" >
+              <div class="col-12 col-md-6 align-self-center m-footer-inner" >
                 <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
                 <p style="font-size: 22px;">"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes & Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</p>
               </div>
@@ -106,7 +106,7 @@
                 <a href="" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
-                      <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (English Version)</p>
+                      <p class="card-text" algin="center" style="color: white;" icon="el-icon-plus">Convertible Note Agreement (English Version)</p>
                     </div>
                   </div>
                 </a>
