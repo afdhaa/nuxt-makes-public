@@ -12,6 +12,7 @@
         trow="true"
         col="false"
         capture="true"
+        subtitle="“We believe that the future is about collaboration and every great thing has to start somewhere.”"
         scroll
         image="https://dvb.asia/aksara-final.png"
         @scrollTo="scrollTo($event)"/>
@@ -36,10 +37,7 @@
                 </p>
                 <br><br>
               </div>
-              <div class="col-12 col-md-12 text-center" >
-                <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
-                <h4><i>“We believe that the future is about collaboration and every great thing has to start somewhere.”</i></h4>
-              </div>
+              
               <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
                 <p align="justify"><b>As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia, we have prepared a set of fully editable investment package documents for startup fundraising, made available for free download and use, subject to our disclaimer below:</b></p>
