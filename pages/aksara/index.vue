@@ -28,7 +28,7 @@
             <div class="row">
               <div class="col-12 col-md-12 col-xs-12" align="center">
                 <p>
-                  <iframe style="width: 75%;height: auto;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe style="width: 75%;height: 450px;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   <!-- <video style="width: 100%;height: auto;" controls>
                     <source src="https://www.youtube.com/watch?v=_vApfbd5gB0" type="video/mp4">
                     Your browser does not support HTML5 video.
@@ -42,7 +42,7 @@
               </div>
               <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
-                <p><b>As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia, we have prepared a set of fully editable investment package documents for startup fundraising, made available for free download and use, subject to our disclaimer below:</b></p>
+                <p align="justify"><b>As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia, we have prepared a set of fully editable investment package documents for startup fundraising, made available for free download and use, subject to our disclaimer below:</b></p>
               <br>
               </div>
               <div class="col-6 md-12 col-xs-12">
