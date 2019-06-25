@@ -19,14 +19,14 @@
     <section id="next" class="m-section o-section">
       <div class="container m-container">
         <div class="row">
-          <div class="col-12 col-md-12">
+          <div class="col-12 col-md-12 col-xs-12">
             <div class="row">
-              <div class="col-12 col-md-6">
+              <div class="col-12 col-md-6 col-xs-12">
                 <p class="m-lead text-dark" style="font-size:23px; text-transform:uppercase;">Aksara Nusantara</p>
               </div>
             </div>
             <div class="row">
-              <div class="col-12 col-md-6">
+              <div class="col-12 col-md-6 col-xs-12">
                 <p>
                   <iframe style="width: 100%;height: 350px;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   <!-- <video style="width: 100%;height: auto;" controls>
@@ -36,15 +36,15 @@
                 </p>
 
               </div>
-              <div class="col-12 col-md-6 align-self-center">
+              <div class="col-12 col-md-6 col-xs-12 align-self-center">
                 <p><b>The Aksara Nusantara will include the following drafts: </b></p>
                 <p align="justify">We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes & Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia.</p>
               </div>
-              <div class="col-12 col-md-12">
+              <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
                 <p><b>Download Documents</b></p>
               </div>
-              <div class="col-4 md-12">
+              <div class="col-4 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet%20(Bahasa%20Indonesia).doc" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -74,7 +74,7 @@
                 </div>
                 </a>
               </div>
-              <div class="col-4 md-12">
+              <div class="col-4 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -104,7 +104,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-4 md-12">
+              <div class="col-4 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Pledge%20of%20Shares%20Agreement%20(bilingual).docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -120,12 +120,12 @@
                   </div>
                 </a>
               </div>
-              <div class="col-12 md-12">
+              <div class="col-12 md-12 col-xs-12">
                 <br>
                 <p>The above drafts are available in Indonesian and English versions</p>
                 <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p>
               </div>
-              <!-- <div class="col-12 md-12">
+              <!-- <div class="col-12 md-12 col-xs-12">
                   <br>
                   <hr>
                   <br>
@@ -189,7 +189,7 @@
           </div>
         </nuxt-link>
         <div class="row">
-          <div class="col-12 col-md-12">
+          <div class="col-12 col-md-12 col-xs-12">
             <div class="m-features m-tab-top">
               <h6 class="o-features-title mb-4">Browse by:</h6>
               <el-tabs v-model="active">
