@@ -26,23 +26,23 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-12 col-md-6 col-xs-12">
+              <div class="col-12 col-md-12 align-center">
                 <p>
-                  <iframe style="width: 100%;height: 350px;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe style="width: 70%;height: 350px;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   <!-- <video style="width: 100%;height: auto;" controls>
                     <source src="https://www.youtube.com/watch?v=_vApfbd5gB0" type="video/mp4">
                     Your browser does not support HTML5 video.
                   </video> -->
                 </p>
-
+                <br><br>
               </div>
-              <div class="col-12 col-md-6 align-self-center" >
+              <div class="col-12 col-md-6 align-center" >
                 <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
-                <h4>"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</h4>
+                <h4><i>“We believe that the future is about collaboration and every great thing has to start somewhere.”</i></h4>
               </div>
               <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
-                <p><b>You can download, use and alter the editable Word version of Aksara Nusantara for free, subject to our Disclaimer below:</b></p>
+                <p><b>As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia, we have prepared a set of fully editable investment package documents for startup fundraising, made available for free download and use, subject to our disclaimer below:</b></p>
               <br>
               </div>
               <div class="col-6 md-12 col-xs-12">
@@ -56,7 +56,7 @@
                 <a href="" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
-                      <p class="card-text" algin="center" style="color: white;">Share Subcription (Indonesian Version)</p>
+                      <p class="card-text" algin="center" style="color: white;">Share Subscription Agreement (Indonesian Version)</p>
                     </div>
                   </div>
                 </a>
@@ -122,7 +122,7 @@
               <br><br>
               <div class="col-12 md-12 col-xs-12">
                 <br>
-                <p align="justify"><b>“A Kit of Standard Startup Agreements” (“Aksara Nusantara”) is a work product developed by Makes & Partners Law Firm (“Makes”), taking into account various external and internal sources on the Startup fundraising documents. Aksara Nusantara will be updated from time to time following any inputs that we receive.</b></p>
+                <p align="justify"><b>A Kit of Standard Startups Agreements (“Aksara Nusantara”) is a work product developed by Makes & Partners Law Firm (“Makes”), taking into account various external and internal sources on the Startup fundraising documents. Aksara Nusantara will be updated from time to time following any inputs that we receive.</b></p>
 
 <p align="justify"><b>No information provided in Aksara Nusantara, should be construed as legal advice (including for any fact or scenario described in each of the documents or any assumptions made in relation to such document). Aksara Nusantara and the terms thereto are intended to serve as a starting point only and should be tailored to meet your specific legal and commercial requirements. Additional documents may be required for your transaction. Makes does not take any responsibility for the contents of Aksara Nusantara. Please obtain legal, tax and other professional advice accordingly.</b></p> 
 
