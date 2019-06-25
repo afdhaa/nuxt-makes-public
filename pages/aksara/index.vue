@@ -45,7 +45,7 @@
                 <p><b>Download Documents</b></p>
               </div>
               <div class="col-4 md-12">
-                <a href="">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet%20(Bahasa%20Indonesia).doc" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Term Sheet (Indonesian Version)</p>
@@ -75,7 +75,7 @@
                 </a>
               </div>
               <div class="col-4 md-12">
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Term Sheet (English Version)</p>
@@ -89,7 +89,7 @@
                   </div>
                 </div>
                 </a>
-                <a href="">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Shareholders'%20Agreement.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Shareholders' Agreement (English Version) </p>
@@ -105,7 +105,7 @@
                 </a>
               </div>
               <div class="col-4 md-12">
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Pledge%20of%20Shares%20Agreement%20(bilingual).docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Pledges of Shares Agreement (Bilingual)</p>
