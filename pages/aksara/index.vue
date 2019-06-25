@@ -38,11 +38,12 @@
               </div>
               <div class="col-12 col-md-6 align-self-center" >
                 <!-- <p><b>The Aksara Nusantara will include the following drafts: </b></p> -->
-                <h2>"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</h2>
+                <h4>"We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia."</h4>
               </div>
               <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
                 <p><b>You can download, use and alter the editable Word version of Aksara Nusantara for free, subject to our Disclaimer below:</b></p>
+              <br>
               </div>
               <div class="col-6 md-12 col-xs-12">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet%20(Bahasa%20Indonesia).doc" target="_blank">
