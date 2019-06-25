@@ -1,3 +1,7 @@
+<style>
+#more {display: none;}
+</style>
+
 <template>
   <main>
     <section>
@@ -6,10 +10,10 @@
         container="true"
         row="true"
         trow="true"
-        col="true"
+        col="false"
         capture="true"
         scroll
-        image="https://res.cloudinary.com/dyrywo8ho/image/upload/v1560416972/aksara_jyq15b.png"
+        image="https://dvb.asia/aksara-final.png"
         @scrollTo="scrollTo($event)"/>
     </section>
     <section id="next" class="m-section o-section">
@@ -18,24 +22,149 @@
           <div class="col-12 col-md-12">
             <div class="row">
               <div class="col-12 col-md-6">
-                <p class="m-lead text-dark">Aksara Nusantara</p>
+                <p class="m-lead text-dark" style="font-size:23px; text-transform:uppercase;">Aksara Nusantara</p>
               </div>
             </div>
             <div class="row">
               <div class="col-12 col-md-6">
                 <p>
-                  <video style="width: 100%;height: auto;" controls>
-                    <source src="https://res.cloudinary.com/afdhaa/video/upload/v1560837441/VID-20190617-WA0003_vzre1j.mp4" type="video/mp4">
+                  <iframe style="width: 100%;height: 350px;" src="https://www.youtube.com/embed/_vApfbd5gB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <!-- <video style="width: 100%;height: auto;" controls>
+                    <source src="https://www.youtube.com/watch?v=_vApfbd5gB0" type="video/mp4">
                     Your browser does not support HTML5 video.
-                  </video>
+                  </video> -->
                 </p>
+
               </div>
-              <div class="col-12 col-md-6">
-                <p>The Aksara Nusantara will include the following drafts: </p>
+              <div class="col-12 col-md-6 align-self-center">
+                <p><b>The Aksara Nusantara will include the following drafts: </b></p>
                 <p align="justify">We believe that the future is about collaboration and every great thing has to start somewhere. As part of Makes & Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia.</p>
-                <p>a.	Term Sheet <br> b.	Convertible Note Agreement <br> c.	Pledge Agreement <br> d.	Share Subscription Agreement <br>e.	Shareholders Agreement.</p>
-                <p>The above drafts are available in Indonesian and English versions.</p>
+              </div>
+              <div class="col-12 col-md-12">
+                <br><br>
+                <p><b>Download Documents</b></p>
+              </div>
+              <div class="col-4 md-12">
+                <a href="">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Term Sheet (Indonesian Version)</p>
+                    </div>
+                  </div>
+                </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Share Subcription (Indonesian Version)</p>
+                    </div>
+                  </div>
+                </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Shareholders' Agreement (Indonesian Version)</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-4 md-12">
+                <a href="" target="_blank">
+                    <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card-body" style="">
+                    <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (Indonesian Version)</p>
+                  </div>
+                </div>
+                </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Term Sheet (English Version)</p>
+                    </div>
+                  </div>
+                </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                  <div class="card-body" style="">
+                    <p class="card-text" algin="center" style="color: white;">Share Subscription Agreement (English Version)</p>
+                  </div>
+                </div>
+                </a>
+              </div>
+              <div class="col-4 md-12">
+                <a href="">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Shareholders' Agreement (English Version) </p>
+                    </div>
+                  </div>
+                </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (English Version)</p>
+                    </div>
+                  </div>
+                </a>
+                <a href="" target="_blank">
+                  <div class="card" style="border-radius: 5px; height: 70px; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Pledges of Shares Agreement (Bilingual)</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 md-12">
+                <br>
+                <p>The above drafts are available in Indonesian and English versions</p>
                 <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p>
+              </div>
+              <div class="col-12 md-12">
+                  <br>
+                  <hr>
+                  <br>
+                  <p class="m-lead text-dark" style="font-size:23px; text-transform:uppercase;">Frequently Asked and Question</p>
+                  <p><b>1.	Kenapa harus ada Aksara Nusantara?</b></p>
+                  <p>Aksara Nusantara dibuat dengan mengingat saat ini belum terdapat suatu standar paket dokumen yang dapat dipakai dalam proses fundraising early stage startups di Indonesia, padahal banyak Founders perusahaan startup yang belum memiliki pengalaman dan pengetahuan sehubungan dengan proses fundraising. Dikarenakan terdapatnya kesenjangan informasi (asymmetrical information) antara Founders dan Investors dalam proses fundraising, seringkali proses negosiasi antara Founders dan Investor berlangsung berlarut-larut yang akhirnya menyebabkan biaya transaksi menjadi tinggi.</p>
+                  <p>Dengan dibuatnya Aksara Nusantara, diharapkan satu paket dokumen ini dapat mengakomodasi dan menjadi acuan bagi Founders maupun Investors dalam proses fundraising sehingga dapat mempersingkat negosiasi dan secara keseluruhan menghemat waktu dan biaya para pihak dalam fundraising.</p>
+                  <span id="dots"></span><span id="more">
+                    <p><b>2.	Kenapa aspek legal perlu diperhatikan dalam proses fundraising?</b></p>
+                    <p>Seringkali, para Founders yang belum memiliki pengalaman dalam proses fundraising tidak memperhatikan dan mengerti ketentuan atas dokumen-dokumen yang ditandatanganinya, walaupun dalam dokumen tersebut terdapat ketentuan yang dapat merugikan Founders. Dengan Aksara Nusantara, diharapkan paket dokumen ini dapat menjembatani kepentingan Investors dan disaat yang sama melindungi hak-hak Founders</p>
+                    <p><b>3.	Apakah perusahaan startup tidak perlu lagi lawyer apabila perusahaan startup tersebut sudah merujuk ke Aksara Nusantara?</b></p>
+                    <p>Pada umumnya, Aksara Nusantara dapat dipakai oleh seluruh kalangan, mengingat Aksara Nusantara disusun dengan panduan serta bahasa yang mudah dimengerti. Namun dalam prakteknya, kami mengerti bahwa setiap transaksi fundraising memiliki kompleksitasnya sendiri, terutama untuk fundraising series-b dan seterusnya dimana pemangku kepentingan menjadi bertambah. Semakin kompleks suatu transaksi, para pihak disarankan untuk meminta bantuan dari lawyer untuk memberikan advis hukum dan mengakomodasi kepentingannya dalam proses fundraising. </p>
+                    <p><b>4.	Kapan Aksara Nusantara dibutuhkan dalam proses fundraising? Apakah dokumen ini berlaku untuk semua tahap fundraising? Bagaimana apabila saya sedang dalam proses pendanaan series-b dengan komitmen investasi puluhan juta USD? Dapatkah saya mengandalkan dokumen Aksara Nusantara ini?</b></p>
+                    <p>Aksara Nusantara didesain untuk dapat digunakan dalam semua tahapan fundraising, terutama pada series-a. Namun, mengingat kompleksitas dari proses fundraising pada tahapan-tahapan selanjutnya, maka terdapat beberapa perubahan yang perlu diaplikasikan dalam dokumen-dokumen Aksara Nusantara pada tahapan fundraising selanjutnya.</p>
+                    <p><b>5.	Apa yang harus saya lakukan seandainya saya ada pertanyaan legal terkait dokumen-dokumen Aksara Nusantara ini?</b></p>
+                    <p>Anda dapat mengajukan pertanyaan tersebut pada email kami tanyaaksara@makeslaw.com.</p>
+                    <p><b>6.	Aksara Nusantara terdiri dari dokumen apa saja?</b></p>
+                    <p>Aksara Nusantara terdiri dari Term Sheet, Perjanjian Antar Pemegang Saham (Shareholders’ Agreement), Perjanjian Pengambilan Saham (Share Subscription Agreement), Perjanjian Surat Utang Yang Dapat Dikonversi (Convertible Notes Agreement), dan Perjanjian Gadai Saham (Pledge of Shares Agreement).</p>
+                    <p><b>7.	Apakah semua klausul dalam dokumen Aksara Nusantara bersifat baku?</b></p>
+                    <p>Tidak. Mengingat Aksara Nusantara hanya bersifat sebagai acuan, Anda dapat melakukan penyesuaian terhadap masing-masing ketentuan dari setiap dokumen Aksara Nusantara sesuai dengan kesepakatan komersial para pihak. </p>
+                    <p><b>8.	Apakah Aksara Nusantara tersedia dalam bahasa Inggris?</b></p>
+                    <p>Aksara Nusantara tersedia untuk diunduh dalam bahasa Inggris dan bahasa Indonesia.</p>
+                    <p><b>9.	Apakah terdapat uji tuntas dalam funding?</b></p>
+                    <p>Secara umum ya dan mencakup aspek konsep yang akan dikembangkan, aspek korporasi perusahaan startup, Founders-nya serta beberapa aspek finansial, teknologi, legal dan akuntasi.</p>
+                    <p><b>10.	Berapa lama biasanya proses penyiapan dan sampai penandatanganan dokumentasi?</b></p>
+                    <p>Jangka waktu diskusi, penyiapan struktur, penyiapan draft dokumen, negosiasi sampai dengan penandatangan akan sangat banyak dipengaruhi oleh (1) kesiapan dan kemengertian para pihak atas transaksi yang akan dilakukan, (2) kesiapan dan kehandalan para pihak yang menyiapkan dokumen-dokumen yang diperlukan dan (3) kompleksitas negosiasi yang dilakukan oleh para pihak.
+                    Dengan persiapan dan pengelolaan proses yang baik oleh para pihak, maka proses diatas dapat dilakukan dalam waktu yang relatif singkat.</p>
+                    <p><b>11.	Apa itu Term Sheet dan apa fungsinya? </b></p>
+                    <p>Suatu Term Sheet biasanya dimaksudkan sebagai perjanjian yang tidak mengikat yang memuat syarat, ketentuan, dan kesepakatan prinsipil sebelum para pihak menandatangani perjanjian yang mengikat untuk memberlakukan ketentuan-ketentuan dari Term Sheet, termasuk, tetapi tidak terbatas pada Perjanjian Pengambilan Saham dan Perjanjian Antar Pemegang Saham. </p>
+                    <p><b>12.	Apa itu Perjanjian Antar Pemegang Saham (Shareholders’ Agreement) dan apa fungsinya?</b></p>
+                    <p>Perjanjian Antar Pemegang Saham dapat disebut sebagai perjanjian yang paling penting dalam proses fundraising untuk early stage startup, mengingat perjanjian ini akan menetapkan urusan dan tata kelola perusahaan serta hak dan kewajiban Investors dan Founders sebagai pemegang saham perusahaan.</p>
+                    <p>Secara umum, Perjanjian Antar Pemegang Saham akan menetapkan, antara lain hak Investors untuk menunjuk sejumlah direksi dan/atau dewan komisaris di perusahaan dan hal-hal tertentu yang akan memerlukan persetujuan dari Investors. Perjanjian Antar Pemegang Saham juga akan mencakup hak-hak pemegang saham yang umum seperti hak penolakan pertama (right of first refusal), hak ikut serta (tag along), dan yang paling penting, Perjanjian Antar Pemegang Saham akan memuat opsi bagi Investor untuk dapat exit dari perusahaan startup tersebut. </p>
+                    <p><b>13.	Apa itu Perjanjian Pengambilan Saham (Share Subscription Agreement) dan apa fungsinya?</b></p>
+                    <p>Perjanjian Pengambilan Saham biasanya memuat syarat dan ketentuan dari penerbitan saham oleh perusahaan startup kepada Investors.</p>
+                    <p>Secara umum, Perjanjian Pengambilan Saham akan memasukkan kondisi-kondisi yang harus dipenuhi oleh Founders dan/atau perusahaan startup berdasarkan hasil temuan dari hasil uji tuntas hukum. Jika ada kondisi tertentu, yang menurut Investors bersifat material, Perjanjian Pengambilan Saham dapat mengakomodasi pemenuhan kondisi tersebut sebelum penyelesaian transaksi fundraising kedalam suatu “Syarat Pendahuluan”.</p>
+                    <p>Keunikan Perjanjian Pengambilan Saham dalam Aksara Nusantara, salah satunya adalah ketika salah satu Investor memutuskan untuk mengakhiri Perjanjian Pengambilan Saham karena kondisi tertentu yang tidak dapat dipenuhi oleh Founders atau perusahaan startup, Perjanjian Pengambilan Saham hanya berakhir bagi pihak tersebut, dan masih akan berlaku untuk Investor lainnya. </p>
+                    <p><b>14.	Apa itu Perjanjian Surat Utang Yang Dapat Dikonversi (Convertible Notes Agreement) dan apa fungsinya?</b></p>
+                    <p>Perjanjian Surat Utang Yang Dapat Dikonversi biasanya memuat syarat dan ketentuan penerbitan hutang oleh perusahaan startup kepada Investor, yang kemudian hutang tersebut dapat dikonversi menjadi saham di perusahaan startup apabila terjadi suatu kondisi-kondisi tertentu.</p>
+                    <p>Keuntungan utama menggunakan Perjanjian Surat Utang Yang Dapat Dikonversi adalah Founders dan Investors tidak dipaksa untuk menentukan nilai valuasi suatu perusahaan startup ketika perusahaan tersebut masih baru berdiri dan tidak memiliki dasar penilaian yang valid. Dalam beberapa kasus, perusahaan startup yang baru berdiri mungkin hanya berupa gagasan yang baru akan mulai diaktualisasikan. Sedangkan, penilaian biasanya baru dapat ditentukan setelah series-a financing, dimana banyak variable yang dapat digunakan sebagai penilain setelah tahap ini.</p>
+                    <p><b>15.	Apa itu Perjanjian Gadai Saham (Pledge of Shares Agreement) dan apa fungsinya?</b></p>
+                    <p>Dokumen ini bersifat optional, Perjanjian Gadai Saham ini memuat ketentuan penggadaian saham Founders dalam perusahaan startup untuk menjamin kewajiban yang harus dijalankan oleh Founders dan/atau perusahaan startup berdasarkan Perjanjian Surat Utang Yang Dapat Dikonversi.</p>
+                    <p>Perjanjian ini juga berfungsi untuk memberikan rasa nyaman kepada Investor (umumnya angel investor) yang tidak memiliki toleransi terhadap risiko berinvestasi kepada perusahaan startup.</p>
+                    <p><b>16.	Apakah semua dokumen Aksara Nusantara harus digunakan seluruhnya secara bersamaan?</b></p>
+                    <p>Tidak. Para pihak dapat memilih skema transaksi yang diinginkan dan kemudian menyesuaikan dengan dokumen Aksara Nusantara yang relevan. Secara umum, apabila Investors memilih skema untuk berinvestasi kepada perusahaan startup melalui penerbitan saham baru sebagaimana diatur dalam Perjanjian Pengambilan Saham, maka ia kemungkinan tidak akan menggunakan dokumen Perjanjian Surat Utang Yang Dapat Dikonversi dan Perjanjian Gadai Saham. Begitupun sebaliknya.</p>
+                  </span>
+                <button style="background-color:#34649b;color:#ffffff;padding:10px 25px 10px 25px;" @click="readMore" id="myBtn">Read more</button>
               </div>
             </div>
           </div>
@@ -108,6 +237,20 @@ export default {
   methods: {
     scrollTo(event) {
       console.log(event)
+    },
+    readMore(){
+      var dots = document.getElementById("dots");
+      var moreText = document.getElementById("more");
+      var btnText = document.getElementById("myBtn");
+      if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        btnText.innerHTML = "Read more";
+        moreText.style.display = "none";
+      } else {
+        dots.style.display = "none";
+        btnText.innerHTML = "Read less";
+        moreText.style.display = "inline";
+      }
     }
   }
 }
