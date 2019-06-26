@@ -29,7 +29,7 @@
             <div class="row">
               <div class="col-12 col-md-12 col-xs-12" align="center">
                 <p>
-                  <iframe style="width: 75%;height: 450px;" src="https://www.youtube.com/watch?v=_MLJ5eVk-M4&t=86s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe style="width: 75%;height: 450px;" src="https://www.youtube.com/embed/_MLJ5eVk-M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   <!-- <video style="width: 100%;height: auto;" controls>
                     <source src="https://www.youtube.com/watch?v=_vApfbd5gB0" type="video/mp4">
                     Your browser does not support HTML5 video.
@@ -51,7 +51,7 @@
                     </div>
                   </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Perjanjian%20Pengambilan%20Saham.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">Share Subscription Agreement (Indonesian Version)</p>
@@ -65,14 +65,14 @@
                     </div>
                   </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Perjanjian%20Surat%20Utang%20Yang%20Dapat%20Dikonversi.doc" target="_blank">
                     <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                   <div class="card-body" style="">
                     <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (Indonesian Version)</p>
                   </div>
                 </div>
                 </a>
-                <a href="http://dvb.asia/aksara/Aksara%20Nusantara%20-%20Frequently%20Asked%20Questions.docx" target="_blank">
+                <a href="http://dvb.asia/aksara/Aksara%20Nusantara%20-%20Frequently%20Asked%20Questions%20(Indonesian%20Version).pdf" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;">F.A.Q (Indonesian Version)</p>
@@ -88,7 +88,7 @@
                     </div>
                   </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Share%20Subscription%20Agreement.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                   <div class="card-body" style="">
                     <p class="card-text" algin="center" style="color: white;">Share Subscription Agreement (English Version)</p>
@@ -102,7 +102,7 @@
                     </div>
                   </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Convertible%20Note%20Agreement.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
                       <p class="card-text" algin="center" style="color: white;" icon="el-icon-plus">Convertible Note Agreement (English Version)</p>
