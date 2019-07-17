@@ -132,7 +132,14 @@
               </div>
 <div class="col-12 md-12 col-xs-12">
   test
-<iframe onload="javascript:parent.scrollTo(0,0);" height="463" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://form.dvb.asia/embed.php?id=10141" title="Subscribe Our Mailing List"><a href="https://form.dvb.asia/view.php?id=10141" title="Subscribe Our Mailing List">Subscribe Our Mailing List</a></iframe>
+<div id="mf_placeholder" 
+     data-formurl="//form.dvb.asia/embed.php?id=10141" 
+     data-formheight="463"  
+     data-paddingbottom="10">
+</div>
+<script type="text/javascript" src="//form.dvb.asia/js/jquery.min.js"></script>
+<script type="text/javascript" src="//form.dvb.asia/js/jquery.ba-postmessage.min.js"></script>
+<script type="text/javascript" src="//form.dvb.asia/js/machform_loader.js"></script>
 </div>
               <!-- <div class="col-12 md-12 col-xs-12">
                   <br>
