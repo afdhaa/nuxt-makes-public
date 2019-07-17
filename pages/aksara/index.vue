@@ -130,6 +130,19 @@
 <br><br>
                 <!-- <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p> -->
               </div>
+<div class="col-12 md-12 col-xs-12">
+<div id="mf_placeholder" 
+     data-formurl="//form.dvb.asia/embed.php?id=10141" 
+     data-formheight="463"  
+     data-paddingbottom="10">
+</div>
+<script>
+	(function(f,o,r,m){
+		r=f.createElement('script');r.async=1;r.src=o+'js/mf.js';
+		m=f.getElementById('mf_placeholder'); m.parentNode.insertBefore(r, m);
+	})(document,'//form.dvb.asia/');
+</script>
+</div>
               <!-- <div class="col-12 md-12 col-xs-12">
                   <br>
                   <hr>
