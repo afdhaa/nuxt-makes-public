@@ -1,5 +1,44 @@
 <style>
-#more {display: none;}
+#more {
+  display: none;
+}
+.newsletter {
+  padding: 80px 0;
+  background-image: url(https://dvb.asia/button.jpg);
+  border-radius: 5px;
+}
+
+.newsletter .content {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+.newsletter .content h2 {
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+.newsletter .content h5 {
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+.newsletter .content .form-control {
+  height: 50px;
+  border-color: #ffffff;
+  border-radius: 0;
+}
+.newsletter .content.form-control:focus {
+  box-shadow: none;
+  border: 2px solid #243c4f;
+}
+.newsletter .content .btn {
+  min-height: 50px;
+  border-radius: 0;
+  background: #c00000;
+  color: #fff;
+  font-weight: 600;
+}
 </style>
 
 <template>
@@ -29,7 +68,7 @@
             <div class="row">
               <div class="col-12 col-md-12 col-xs-12" align="center">
                 <p>
-                  <iframe style="width: 75%;height: 450px;" src="https://www.youtube.com/embed/_MLJ5eVk-M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe style="width: 75%;height: 450px;" src="https://www.youtube.com/embed/_MLJ5eVk-M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
                   <!-- <video style="width: 100%;height: auto;" controls>
                     <source src="https://www.youtube.com/watch?v=_vApfbd5gB0" type="video/mp4">
                     Your browser does not support HTML5 video.
@@ -37,13 +76,36 @@
                 </p>
                 <br><br>
               </div>
-              
+
               <div class="col-12 col-md-12 col-xs-12">
                 <br><br>
                 <p align="justify"><b>As part of Makes &amp; Partners Law Firm (Makes) initiatives to engineer emerging startup ecosystem in Indonesia, we have prepared a set of fully editable investment package documents for startup fundraising, made available for free download and use, subject to our disclaimer below:</b></p>
-              <br>
+                <br>
               </div>
-              <div class="col-6 md-12 col-xs-12">
+              <div class="col-12 md-12 col-xs-12">
+                <section class="newsletter">
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-sm-12">
+                        <div class="content">
+                          <h2>Register Yourself</h2>
+                          <h5>You must fill out a subscription form to be able to continue downloading</h5>
+                          <div class="input-group">
+                            <input id="name" type="name" class="form-control" placeholder="Enter your name">
+                            <br>
+                            <input id="email" type="email" class="form-control" placeholder="Enter your email">
+                            <span class="input-group-btn">
+                              <button class="btn" @click="submitpost">Submit</button>
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <br><br>
+              </div>
+              <div class="col-6 md-12 col-xs-12 inactive" disabled @mouseover="emptySession">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet%20(Bahasa%20Indonesia).doc" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -66,11 +128,11 @@
                   </div>
                 </a>
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Perjanjian%20Surat%20Utang%20Yang%20Dapat%20Dikonversi.doc" target="_blank">
-                    <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
-                  <div class="card-body" style="">
-                    <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (Indonesian Version)</p>
+                  <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Convertible Note Agreement (Indonesian Version)</p>
+                    </div>
                   </div>
-                </div>
                 </a>
                 <a href="http://dvb.asia/aksara/Aksara%20Nusantara%20-%20Frequently%20Asked%20Questions%20(Indonesian%20Version).pdf" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
@@ -80,7 +142,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-6 md-12 col-xs-12">
+              <div class="col-6 md-12 col-xs-12" @mouseover="emptySession">
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Term%20Sheet.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
@@ -90,10 +152,10 @@
                 </a>
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Share%20Subscription%20Agreement.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
-                  <div class="card-body" style="">
-                    <p class="card-text" algin="center" style="color: white;">Share Subscription Agreement (English Version)</p>
+                    <div class="card-body" style="">
+                      <p class="card-text" algin="center" style="color: white;">Share Subscription Agreement (English Version)</p>
+                    </div>
                   </div>
-                </div>
                 </a>
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Shareholders'%20Agreement.docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
@@ -112,7 +174,7 @@
                 <a href="http://dvb.asia/aksara/AKSARA%20NUSANTARA%20-%20Pledge%20of%20Shares%20Agreement%20(bilingual).docx" target="_blank">
                   <div class="card" style="border-radius: 5px; height: auto; margin-bottom:10px; font-size:13px; background-image: url(https://dvb.asia/button.jpg);">
                     <div class="card-body" style="">
-                      <p class="card-text" algin="center" style="color: white;"><i class="fa fa-download"></i>Pledges of Shares Agreement (Bilingual)</p>
+                      <p class="card-text" algin="center" style="color: white;"><i class="fa fa-download"/>Pledges of Shares Agreement (Bilingual)</p>
                     </div>
                   </div>
                 </a>
@@ -122,25 +184,14 @@
                 <br>
                 <p align="justify"><b>A Kit of Standard Startups Agreements (“Aksara Nusantara”) is a work product developed by Makes & Partners Law Firm (“Makes”), taking into account various external and internal sources on the Startup fundraising documents. Aksara Nusantara will be updated from time to time following any inputs that we receive.</b></p>
 
-<p align="justify"><b>No information provided in Aksara Nusantara, should be construed as legal advice (including for any fact or scenario described in each of the documents or any assumptions made in relation to such document). Aksara Nusantara and the terms thereto are intended to serve as a starting point only and should be tailored to meet your specific legal and commercial requirements. Additional documents may be required for your transaction. Makes does not take any responsibility for the contents of Aksara Nusantara. Please obtain legal, tax and other professional advice accordingly.</b></p> 
+                <p align="justify"><b>No information provided in Aksara Nusantara, should be construed as legal advice (including for any fact or scenario described in each of the documents or any assumptions made in relation to such document). Aksara Nusantara and the terms thereto are intended to serve as a starting point only and should be tailored to meet your specific legal and commercial requirements. Additional documents may be required for your transaction. Makes does not take any responsibility for the contents of Aksara Nusantara. Please obtain legal, tax and other professional advice accordingly.</b></p>
 
-<p align="justify"><b>Aksara Nusantara is developed by taking into consideration the general nature of early stage startup investments in Indonesia. It should not be construed as how Makes’ positions itself on various matters mentioned herein in any transactions that are handled by Makes.</b></p>
+                <p align="justify"><b>Aksara Nusantara is developed by taking into consideration the general nature of early stage startup investments in Indonesia. It should not be construed as how Makes’ positions itself on various matters mentioned herein in any transactions that are handled by Makes.</b></p>
 
-<p align="justify"><b>For queries and comments please contact us at <a href="mailto:tanyaaksara@makeslaw.com" target="_blank" rel="noopener">tanyaaksara@makeslaw.com</a>.</b></p>
-<br><br>
+                <p align="justify"><b>For queries and comments please contact us at <a href="mailto:tanyaaksara@makeslaw.com" target="_blank" rel="noopener">tanyaaksara@makeslaw.com</a>.</b></p>
+                <br><br>
                 <!-- <p align="justify">In preparing the Aksara Nusantara, Makes is collaborating with prominent early stage startups, venture capital firms, and angel investors in Indonesia, who will provide their inputs following the launching the beta version of Aksara Nusantara.</p> -->
               </div>
-<div class="col-12 md-12 col-xs-12">
-  test
-<div id="mf_placeholder" 
-     data-formurl="//form.dvb.asia/embed.php?id=10141" 
-     data-formheight="463"  
-     data-paddingbottom="10">
-</div>
-<script type="text/javascript" src="//form.dvb.asia/js/jquery.min.js"></script>
-<script type="text/javascript" src="//form.dvb.asia/js/jquery.ba-postmessage.min.js"></script>
-<script type="text/javascript" src="//form.dvb.asia/js/machform_loader.js"></script>
-</div>
               <!-- <div class="col-12 md-12 col-xs-12">
                   <br>
                   <hr>
@@ -233,6 +284,21 @@
         </div>
       </div>
     </section>
+    <div id="message" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 id="" class="modal-title"/>
+          </div>
+          <div class="modal-body"/>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary"/>
+          </div>
+        </div>
+      </div>
+    </div>
   </main>
 </template>
 
@@ -240,6 +306,7 @@
 import Top from '~/components/desk/Top'
 import Tab from '~/components/desk/Tab'
 import Content from '~/components/desk/Content'
+import axios from 'axios'
 
 export default {
   components: {
@@ -261,18 +328,49 @@ export default {
     scrollTo(event) {
       console.log(event)
     },
-    readMore(){
-      var dots = document.getElementById("dots");
-      var moreText = document.getElementById("more");
-      var btnText = document.getElementById("myBtn");
-      if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btnText.innerHTML = "Read more";
-        moreText.style.display = "none";
+    readMore() {
+      var dots = document.getElementById('dots')
+      var moreText = document.getElementById('more')
+      var btnText = document.getElementById('myBtn')
+      if (dots.style.display === 'none') {
+        dots.style.display = 'inline'
+        btnText.innerHTML = 'Read more'
+        moreText.style.display = 'none'
       } else {
-        dots.style.display = "none";
-        btnText.innerHTML = "Read less";
-        moreText.style.display = "inline";
+        dots.style.display = 'none'
+        btnText.innerHTML = 'Read less'
+        moreText.style.display = 'inline'
+      }
+    },
+    submitpost() {
+      var url = 'http://127.0.0.1:8000/guest-post'
+      var name = document.getElementById('name').value
+      var email = document.getElementById('email').value
+      var params = {
+        name: name,
+        email: email
+      }
+      axios
+        .post(url, params)
+        .then(res => {
+          localStorage.setItem('data', res)
+          alert('Sucess Kirim Data')
+          //console.log(res)
+        })
+        .catch(err => {
+          alert('Gagal Kirim Data')
+          console.error(err)
+        })
+    },
+    emptySession() {
+      if (localStorage.getItem('data')) {
+        console.log('success')
+      } else {
+        //this.$refs['message'].show()
+        //document.getElementById('message').showModal()
+        alert(
+          'You must fill out a subscription form to be able to continue downloading'
+        )
       }
     }
   }
